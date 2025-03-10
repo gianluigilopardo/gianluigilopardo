@@ -1,4 +1,8 @@
 ### Hi there! 👋 
-I'm Gianluigi, an applied mathematician working on machine learning and computational linguistics. 
+I am Gianluigi, a **data scientist** working at the [European Central Bank](https://www.ecb.europa.eu/). 
+I am currently researching **AI/ML methods for economic research** within the international policy analysis division of the ECB. 
+Prior to this, I was a doctoral researcher at [Inria](https://inria.fr/) and [Université Côte d'Azur](https://univ-cotedazur.fr/). 
+My PhD thesis focused on the **foundations of machine learning interpretability**, under the supervision of [Damien Garreau](https://sites.google.com/view/damien-garreau/home) and [Frédéric Precioso](https://webusers.i3s.unice.fr/~precioso/). 
+Previously, I earned an MSc in **mathematical engineering** and a BSc in **applied mathematics**, both from [Politecnico di Torino](https://www.polito.it/).
 
-I recently joined the European Central Bank, where I focus on quantitative methods and natural language processing within the International Policy Analysis Division. Before that, I was a doctoral researcher at [Inria](https://inria.fr) and Université Côte d'Azur. My PhD thesis centered on the Foundations of Machine Learning interpretability, supervised by [Damien Garreau](https://sites.google.com/view/damien-garreau/home) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso). Previously, I got an MSc in Mathematical Engineering and a BSc in Applied Mathematics,  both from [Politecnico di Torino](https://www.polito.it/). 
+Drop me a line if you're ever in Frankfurt, Rome, or [Brienza](https://www.basilicataturistica.it/territori/brienza)! 
