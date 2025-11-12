@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-I am Gianluigi, a **data scientist** working at the [European Central Bank]([https://www.ecb.europa.eu/](https://www.ecb.europa.eu/pub/research/authors/profiles/gianluigi-lopardo.en.html)). 
+I am Gianluigi, a **data scientist** working at the [European Central Bank](https://www.ecb.europa.eu/pub/research/authors/profiles/gianluigi-lopardo.en.html). 
 I am currently researching **AI/ML methods for economic research** within the international policy analysis division of the ECB. 
 Prior to this, I was a doctoral researcher at [Inria](https://inria.fr/) and [Université Côte d'Azur](https://univ-cotedazur.fr/). 
 My [PhD thesis](https://theses.hal.science/tel-04917007) focused on the **foundations of machine learning interpretability**, under the supervision of [Damien Garreau](https://sites.google.com/view/damien-garreau/home) and [Frédéric Precioso](https://webusers.i3s.unice.fr/~precioso/). 
